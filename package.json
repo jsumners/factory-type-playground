@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastify-plugin": "^3.0.0",
+    "glob": "^7.1.6"
+  }
+}
